@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm arrrrrmin 👋
 
 Freelancing Data Scientist 🚀 • Python Developer 🐍 • Electronic Music Nerd 🎛️ 
 
