@@ -1,6 +1,8 @@
 ### Hi there. I'm arrrrrmin 👋
 
-Freelancing Data Scientist 🚀 • Python Developer 🐍 • Electronic Music Nerd 🎛️ 
+- 🚀 Freelancer / Data Scientist
+- 🐍 Python Developer
+- 🎛️ Electronic Music Nerd
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
