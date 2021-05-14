@@ -4,7 +4,7 @@
 - 🐍 Python Developer - `FastAPI`, `PyTorch`, `Gensim`
 - 🎛️ Electronic Music Nerd - `Techno what else`
 - 🔭 I’m currently working on `ML Workflow management projects`, [`knowkit`](https://knowkit.de)
-- 🌱 I’m currently learning `javascript animations`, [`orca`](https://github.com/hundredrabbits/Orca)
+- 🌱 I’m currently learning `react`, `nextjs`, `stitches`, [`orca`](https://github.com/hundredrabbits/Orca)
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
