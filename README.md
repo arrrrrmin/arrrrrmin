@@ -1,4 +1,4 @@
-### Hi there. I'm arrrrrmin 👋
+### Hi there. I'm [arrrrrmin](https://arrrrrmin.netlify.app) 👋
 
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `FastAPI`, `PyTorch`, `Gensim`
