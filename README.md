@@ -3,7 +3,7 @@
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `FastAPI`, `PyTorch`, `Gensim`
 - 🎛️ Electronic Music Nerd - `Techno what else`
-- 🔭 I’m currently working on `ML Workflow management projects`, [`knowkit`](https://knowkit.de)
+- 🔭 I’m currently working on `ML Workflow management projects`, [`knowkit`](https://github.com/KnowKit)
 - 🌱 I’m currently learning `react`, `nextjs`, `stitches`, [`orca`](https://github.com/hundredrabbits/Orca)
 
 <!--
