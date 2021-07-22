@@ -1,9 +1,8 @@
 ### Hi there. I'm [arrrrrmin](https://arrrrrmin.netlify.app) 👋
 
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
-- 🐍 Python Developer - `FastAPI`, `PyTorch`, `Gensim`
-- 🎛️ Electronic Music Nerd - `Techno what else`
-- 🔭 I’m currently working on `ML Workflow management projects`, [`knowkit`](https://github.com/KnowKit)
+- 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
+- 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
 - 🌱 I’m currently learning `react`, `nextjs`, `stitches`, [`orca`](https://github.com/hundredrabbits/Orca)
 
 <!--
