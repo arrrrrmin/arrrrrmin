@@ -1,4 +1,4 @@
-### Hi there. I'm [arrrrrmin](https://dotarmin.info/) 👋
+### Hi there. I'm [arrrrrmin](https://arrrrrmin.netlify.app) 👋
 
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
