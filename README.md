@@ -3,7 +3,7 @@
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
 - 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
-- 🌱 I’m currently learning `GraphQL`, `OpenSearch`
+- 🌱 I’m currently learning `AWS CDK`, `GraphQL`, `OpenSearch`
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
