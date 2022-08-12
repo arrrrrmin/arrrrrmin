@@ -3,7 +3,7 @@
 - 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
 - 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
-- 🌱 I’m currently learning `AWS CDK`, `pre-commit`
+- 🌱 I’m currently learning `AWS CDK`, `pre-commit`, `environmental sound classification`
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
