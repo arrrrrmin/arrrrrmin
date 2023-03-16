@@ -1,6 +1,6 @@
 ### Hi there. I'm [arrrrrmin](https://arrrrrmin.dev) 👋
 
-- 🚀 Freelancer / Data Scientist - `Natural Language Processing`, `ML Workflows`
+- 🚀 Data Scientist - `Natural Language Processing`, `ML Workflows`
 - 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
 - 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
 
