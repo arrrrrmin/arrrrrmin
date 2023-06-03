@@ -1,9 +1,9 @@
 ### Hi there. I'm [arrrrrmin](https://arrrrrmin.dev) 👋
 
-- 🚀 Data Scientist - `Natural Language Processing`, `ML Workflows`
-- 🐍 Python Developer - `PyTorch`, `FastAPI`, `Gensim`
+- 🚀 Data Scientist - `ml`, `nlp`, `hobby data vis`
 - 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
-- 🌱 I’m currently learning `rust`
+- 🌱 I’m currently learning `rust`, `d3js`
+- 📫 Reach me on mastodon: [chaos.social/@arrrrrmin](https://chaos.social/@arrrrrmin)
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
