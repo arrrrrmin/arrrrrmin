@@ -1,6 +1,6 @@
-### Hi there. I'm [arrrrrmin](https://arrrrrmin.dev) 👋
+### Hi there. I'm arrrrrmin 👋
 
-- 🚀 Data Scientist - `ml`, `nlp`, `hobby data vis`
+- 🤓 Data Scientist - `ml`, `nlp`, `data vis`
 - 🎛️ Electronic Music Nerd - `Techno what else 🤷‍♂️`
 - 🌱 I’m currently learning `rust`, `d3js`
 - 📫 Reach me on mastodon: [chaos.social/@arrrrrmin](https://chaos.social/@arrrrrmin)
