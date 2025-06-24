@@ -1,8 +1,7 @@
 ### Hi there. I'm arrrrrmin 👋
 
-- 🤓 Datenschreber - `data vis`
-- 🌱 I’m currently learning `rust`, `d3js`
-- 📫 Reach me on mastodon: [chaos.social/@arrrrrmin](https://chaos.social/@arrrrrmin)
+CCC-affine data creator from Tübingen, Germany. I'm engaged in collecting and visualising data that somehow falls at my feet or seems relevant to me.
+See [arrrrrmin.dev](https://arrrrrmin.dev) for more info. Reach me on [Mastodon](https://bsky.app/profile/arrrrrmin.bsky.social) or [Bluesky](https://chaos.social/@arrrrrmin).
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
