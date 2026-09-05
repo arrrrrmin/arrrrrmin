@@ -1,7 +1,7 @@
 ### Hi there. I'm arrrrrmin 👋
 
-CCC-affine data gardener from Tübingen, Germany. I'm engaged in collecting and visualising data that somehow falls at my feet or seems relevant to me.
-See [arrrrrmin.dev](https://arrrrrmin.dev) for more info. Reach me on [Mastodon](https://chaos.social/@arrrrrmin) or [Bluesky](https://bsky.app/profile/arrrrrmin.dev).
+Data gardener from Tübingen, Germany. I'm engaged in collecting and visualising data that somehow falls at my feet or seems relevant to me.
+Likes to learn about data-driven journalism ([arrrrrmin.dev](https://arrrrrmin.dev)). Reach me on [Mastodon](https://chaos.social/@arrrrrmin) or [Bluesky](https://bsky.app/profile/arrrrrmin.dev).
 
 <!--
 **arrrrrmin/arrrrrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
